@@ -1,0 +1,5 @@
+The rts has a GOT and a bunch of function data structures.
+
+The GOT comes with some bootstrapping functions.
+
+It goes through an initialisation step, which includes populating the GOT with bootstrapping functions, then translates bytecode files into executable images, then runs them.
