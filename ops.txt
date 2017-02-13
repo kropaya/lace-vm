@@ -1,0 +1,28 @@
+HAIL eg sections, functions, closures, names, GOTs, const and initialisation
+sections, raw pages etc.
+
+mmap/munmap - allocation/deallocation
+
+labels
+
+codegen/a MOP - creating functions, labels, writing code etc
+
+arguments
+
+locals + local jump + conditional jump
+
+primitive get/set/ops - fixed (specific width) vs variable width and signed vs
+unsigned and float vs int.
+
+pure bitops - bitvectors, flag get/set, masking, bit iterators, chunking,
+matching, shuffle.
+
+row types
+
+names are bitvectors, which should correspond to valid ★-char text.
+
+interning - 64 bit index -> text object.
+
+load HAIL
+
+

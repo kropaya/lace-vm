@@ -1,0 +1,6 @@
+A function has an external ABI (a type signature) that specifies how it may be called, and what it returns.
+A function has an internal ABI (a bounded label tree, a bounded locals tree, and a bounded set of code traces) which specifies what the rts has to do on function entry to be able to run the code. 
+
+Functions are declared in HAIL, or generated with MOP.
+
+Declaration adds them to the GOT.

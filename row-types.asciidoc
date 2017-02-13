@@ -1,0 +1,11 @@
+Polymorphic row types form the basis of the object system for Lace VM.
+
+A Row is either a Sum or a Product, and contains a number of cells.
+The cells have labels, types, and values of that type.
+Operations on rows at a type level include union, restriction, addition, subtraction, equality?.
+
+Quantifiers work as quantifiers, and variables work as variables.
+
+There are operations for row formation and projection via label.
+
+Row objects can be 
