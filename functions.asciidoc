@@ -4,3 +4,12 @@ A function has an internal ABI (a bounded label tree, a bounded locals tree, and
 Functions are declared in HAIL, or generated with MOP.
 
 Declaration adds them to the GOT.
+
+Their form is
+μ name.
+  λ variables. ı variables. name.
+    pattern = ...
+    pattern = ...
+    etc...
+  .
+.

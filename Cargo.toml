@@ -1,0 +1,6 @@
+[package]
+name = "lace-vm"
+version = "0.1.0"
+authors = ["Justin (:flaviusb) Marsh <justin.marsh@flaviusb.net>"]
+
+[dependencies]
