@@ -1,3 +1,6 @@
+Constant pool declarations. These are a code thing, not a language thing. They
+
+
 HAIL eg sections, functions, closures, names, GOTs, const and initialisation
 sections, raw pages etc.
 

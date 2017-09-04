@@ -5,11 +5,20 @@ Functions are declared in HAIL, or generated with MOP.
 
 Declaration adds them to the GOT.
 
+cubical type theory - the 'structure' of a type
+so we need graft/check/cut, labels, jump
+we need the polymorphic row type stuff
+we need 
+
 Their form is
-μ name.
-  λ variables. ı variables. name.
+μ names.
+  λ variables. name.
     pattern = ...
     pattern = ...
     etc...
   .
 .
+
+μ adds names to the current outer scope
+λ and ı add names to the local scope
+
