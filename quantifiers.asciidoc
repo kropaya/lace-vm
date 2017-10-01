@@ -1,1 +1,17 @@
-∀ ∃ ı λ μ ∨ are the six quantifiers.
+The quantifiers:
+
+∀ Universal, parametric
+∃ Exists, parametric, ontological commitment as such
+Π Dependent Product formation, non-parametric
+Σ Dependent Sum formation, non-parametric
+ı Fresh
+λ Abstraction
+μ let rec
+ν module formation
+Ϙ Answer type
+
+𐌎
+
+() Brackets, which open and close scopes.
+Constant pools.
+Equations.
