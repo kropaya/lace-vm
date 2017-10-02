@@ -8,9 +8,8 @@ The quantifiers:
 λ Abstraction
 μ let rec
 ν module formation
-Ϙ Answer type
-
-𐌎
+Ϙ Parametric answer type
+𐌎 Dependent answer type
 
 () Brackets, which open and close scopes.
 Constant pools.

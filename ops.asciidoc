@@ -1,5 +1,15 @@
 Constant pool declarations. These are a code thing, not a language thing. They
 
+Brackets.
+Quantifiers.
+Equations.
+
+μMonoid∈(∃t.).
+  Monoid = νid. ※ Monoid of t
+    id = λ(a∈t).Ϙ(b∈t).a.
+  .
+.
+
 
 HAIL eg sections, functions, closures, names, GOTs, const and initialisation
 sections, raw pages etc.

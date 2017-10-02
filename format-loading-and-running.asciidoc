@@ -1,0 +1,3 @@
+The overall format is an ordered list of segments.
+A segment is verified, then run. Running a segment is effectful - this is how the segment is loaded, as such.
+A VM implementation will first bring up the rts, including populating the initial GOT; this includes populating any condition variables. Then it will typically run a short bytecode program that will first load and run the prelude, then check the condition variables, and if a list of segments is specified, load and run those segments. If the loaded segments return control to the initial bytecode program, the program will then check a condition variable to see whether it should call a specific procedure, and if so, which procedure to call.
